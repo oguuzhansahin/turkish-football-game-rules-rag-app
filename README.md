@@ -1,6 +1,11 @@
 # turkish-game-rules-rag-app
 It is a intelligent RAG App that answers the questions asked based on to the 2023-2024 game booklet published by TFF.
 
+<img src="static/GCHzMLPW0AAWr58.jpg" width="120" />
+<p align="center">
+  <img src="static/GCHzMLPW0AAWr58.jpg" />
+</p>
+
 ### Requirements
 
 ```
